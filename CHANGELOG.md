@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Removed `kp get` and `kp set` commands, basically we removed the global config. Config can only be done via `kanpai.json` or the `kanpai` field in `package.json`.
+No unreleased changes.
 
 ## 0.10.1
 
