@@ -4,6 +4,10 @@
 
 No unreleased changes.
 
+## 0.10.3
+
+No unreleased changes.
+
 ## 0.10.2
 
 - fix: remove default pending content
